@@ -1,0 +1,53 @@
+# > ABC
+DOMAIN-SUFFIX,edgedatg.com
+DOMAIN-SUFFIX,go.com
+
+# > Apple TV
+DOMAIN,np-edge.itunes.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN-SUFFIX,tv.apple.com
+
+# > Discovery Plus
+USER-AGENT,DPlus*
+DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
+DOMAIN-SUFFIX,disco-api.com
+DOMAIN-SUFFIX,discoveryplus.com
+DOMAIN-SUFFIX,fwmrm.net
+DOMAIN-SUFFIX,getblueshift.com
+DOMAIN-SUFFIX,litix.io
+DOMAIN-SUFFIX,mobile-collector.newrelic.com
+DOMAIN-SUFFIX,uplynk.com
+
+# > HBO GO Asia
+// USER-AGENT,HBO%20GO%20PROD*
+// DOMAIN-KEYWORD,hboasia
+DOMAIN-KEYWORD,hbogoasia
+DOMAIN-SUFFIX,hboasia.com
+DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN,hbolb.onwardsmg.com
+DOMAIN,hbounify-prod.evergent.com
+// DOMAIN,bcbolthboa-a.akamaihd.net
+DOMAIN,dai3fd1oh325y.cloudfront.net
+// DOMAIN,hboasialive.akamaized.net
+// DOMAIN,hbogoprod-vod.akamaized.net
+
+# > HBO Max
+USER-AGENT,HBOMAX*
+DOMAIN-SUFFIX,hbo.com
+// DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN,execute-api.ap-southeast-1.amazonaws.com
+
+# > Hulu(フールー)
+DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,hulu.jp
+DOMAIN-SUFFIX,prod.hjholdings.tv
+DOMAIN-SUFFIX,streaks.jp
+DOMAIN-SUFFIX,yb.uncn.jp
+
+# > Youtube Music
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+
